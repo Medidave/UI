@@ -21,4 +21,5 @@ show_tree()
 show_tree()
 
 print("My name is The Dave you know")
+print("And you know waht?, we are still learning to be great")
 
